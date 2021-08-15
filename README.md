@@ -30,7 +30,7 @@
 <img align="left" alt="delphi7" width="26px" src="https://softcatalog.info/sites/default/files/styles/program_logo/public/program/logo/borland_delphi_7_dlya_windows-logo.png" />
 <img align="left" alt="delphi" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Delphi_Language_Logo.png" />
 <img align="left" alt="unity" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png" />
-<img align="left" alt="unity" width="50px" src="https://e7.pngegg.com/pngimages/785/145/png-clipart-java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon-text-logo-thumbnail.png" />
+<img align="left" alt="java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
 
 <br />
 
