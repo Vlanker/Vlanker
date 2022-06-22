@@ -4,7 +4,7 @@
 - 🐱‍🏍 I started learning Unity
 - 💻 I am programming in C# 
 - 🎮 I want to create games 🐱‍👤
-- 🥅 Goals for 2021: become a GameDev Developer
+- 🥅 Goals for 2022: become a GameDev Developer
 - ⚡ Fun fact: I like to watch anime 👺 and play games 👹
 
 ### Connect with me
