@@ -5,7 +5,7 @@
 - 💻 I am programming in C# 
 - 🎮 I want to create games 🐱‍👤
 - 🥅 Goals for 2022: become a GameDev Developer
-- ⚡ Fun fact: I like to watch anime 👺 and play games 👹
+- ⚡ Fun fact: I like to watch anime, 👺 play games 👹 and DnD <img align="" alt="D20" width="20px" src="https://emoji.gg/assets/emoji/d20.png" />
 
 ### Connect with me
 [<img align="left" alt="Vlankerson | Gmail" width="22px" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" />][gmail]
