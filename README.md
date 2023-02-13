@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="Rider" width="26px" src="https://migsoft.ru/upload/iblock/707/707ac49b267f23b4648013c7e8d6dafd.png" />
-<img align="left" alt="VisualStudio2019" width="26px" src="https://img.icons8.com/color/452/visual-studio-2019.png" />
+<img align="left" alt="VisualStudio2019" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />
 <img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="dotnetFramework" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-dot-net-1-1175179.png" />
 <img align="left" alt="dotnetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
@@ -27,10 +27,10 @@
 <img align="left" alt="npm" width="26px" src="https://img.icons8.com/color/452/npm.png" />
 <img align="left" alt="yarn" width="26px" src="https://iconape.com/wp-content/png_logo_vector/yarn-logo.png" />
 <img align="left" alt="vbNet" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/512px-VB.NET_Logo.svg.png" />
-<img align="left" alt="delphi7" width="26px" src="https://softcatalog.info/sites/default/files/styles/program_logo/public/program/logo/borland_delphi_7_dlya_windows-logo.png" />
-<img align="left" alt="delphi" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Delphi_Language_Logo.png" />
+<img align="left" alt="delphi7" width="26px" src="https://th.bing.com/th/id/R.b08d2d33b39709e15f70aa3a72ba1906?rik=PIvluDrsd8JbaQ&pid=ImgRaw&r=0" />
+<img align="left" alt="delphi" width="26px" src="https://th.bing.com/th?id=OSK.82d5b5d3c7bdd493d42791a83329bafb&w=148&h=148&c=7&o=6&pid=SANGAM" />
 <img align="left" alt="unity" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png" />
-<img align="left" alt="java" width="50px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="java" width="26px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/234px-Java_logo.svg.png?20230113103550" />
 
 <br />
 
